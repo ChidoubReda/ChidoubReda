@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Fourth year It student passioned by AI and cloud computing
+I'm a Fourth year IT engineering student passioned by AI and Cloud Computing
 
 
 ## 🌐 Socials:
