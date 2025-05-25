@@ -84,7 +84,7 @@
 <br/>
 
 <div align="center">
- 👨‍🎓 **Salma Sbaa, EMSI student, Morocco.**
+ 👨‍🎓 **Chidoub Redaa, EMSI student, Morocco.**
 
  🛠 **4th year IT & networks engineering student**
 
