@@ -1,5 +1,5 @@
 <p align="right"> 
-    <img src="https://komarev.com/ghpvc/?username=sba&label=Profile%20views&color=2196f3&style=flat" alt="sbaa" /> 
+    <img src="https://komarev.com/ghpvc/?username=Chidoub&label=Profile%20views&color=2196f3&style=flat" alt="Reda" /> 
 </p>
 
 <!-- Add header image here -->
@@ -9,19 +9,20 @@
 
 <p align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&color=36bcf7&center=true&vCenter=true&repeat=false&width=556&height=70&lines=Salma+Sbaa+%F0%9F%91%8B%F0%9F%8F%BB" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&color=36bcf7&center=true&vCenter=true&repeat=false&width=556&height=70&lines=Chidoub+Reda+%F0%9F%91%8B%F0%9F%8F%BB" alt="Typing SVG" />
     </a><br>
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=DF3561FF&center=true&vCenter=true&width=556&height=64&lines=Hello+Friend !!+%F0%9F%91%8B%F0%9F%8F%BB;Engineering+Student;FullStack+Developer;Always+learning+new+technologies" alt="Typing SVG" />
     </a>
 </p>
 
-<h3 align="center">A passionate IT & networks engineering student from Morroco MA</h3>
+<h3 align="center">A passionate IT & networks engineering MA student and an AI enthusiaste</h3>
 
 <br/>
 
 <div align="center">
- 🌱 I’m currently learning **A LOT 🙂**
+ 🌱 While alive : 
+      print('Keep learning !')
 
  💬 Ask me about **Java, Python, C/C++/C#... or anything [here in one of my socials]**
 
@@ -31,19 +32,19 @@
 <br/><br/>
 
 <p align="center">
-    <a target="_blank" href="mailto:salmasbaa550@gmail.com">
+    <a target="_blank" href="mailto:redachidoub1234@gmail.com">
         <img width="64px" alt="Email" title="send me an email" src="static/social-icons/mail.gif"/>
     </a>
     &emsp;
-    <a target="_blank" href="https://www.linkedin.com/in/salma-sbaa-56bb14281/">
+    <a target="_blank" href="https://www.linkedin.com/in/reda-chidoub-7aa775288/">
         <img width="64px" alt="Linkedin" title="Connect with me" src="static/social-icons/linkedin.gif"/>
     </a>
     &emsp;
-    <a target="_blank" href="https://www.instagram.com/salma_sbaa1/">
+    <a target="_blank" href="https://www.instagram.com/reda_chidoub/">
         <img width="64px" alt="Instagram" title="Follow me on instagram" src="static/social-icons/instagram.gif"/>
     </a>
     &emsp;
-    <a target="_blank" href="https://discord.com/users/salmasba">
+    <a target="_blank" href="https://discord.com/users/reda_chidoub">
         <img width="64px" alt="Discord" title="Join me on discord" src="static/social-icons/discord.gif"/>
     </a>
 </p>
@@ -71,7 +72,7 @@
 
 <br />
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=sbaa&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Chidoub&theme=tokyonight" />
 </div>
 <br/>
 <div align="center">
